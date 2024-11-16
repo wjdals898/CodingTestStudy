@@ -1,2 +1,2 @@
-# BaekjoonPractice
-Baekjoon 문제 풀이
+# CodingTestStudy
+Coding Test 공부
