@@ -10,11 +10,13 @@
 문제를 풀이할 때 사용된 주요 알고리즘 및 분류는 다음과 같습니다.
 - **dfs, bfs (깊이 우선 탐색, 너비 우선 탐색)**
 - **dynamic-programming (동적 계획법)**
+- **greedy (그리디)**
 - **implementaion (구현)**
 - **mathmatics (수학)**
-- (더 추가될 예정)
+- **shortest-path (최단 거리)**
+- **sorting (정렬)**
 
-## 🔗[노션 정리](https://sedate-parakeet-3b8.notion.site/Coding-Test-Study-13ce9e66450d800ba5abe8c7cb7bd26f?pvs=4)
+## [노션 정리🔗](https://sedate-parakeet-3b8.notion.site/Coding-Test-Study-13ce9e66450d800ba5abe8c7cb7bd26f?pvs=4)
 
 - **문제 해결 과정 기록:**  
   문제 풀이 중 겪은 어려움과 해결 방법 등을 기록하였습니다.
